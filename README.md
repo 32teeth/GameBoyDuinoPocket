@@ -17,7 +17,7 @@ The hardware is based on AVR microcontrollers and programmed via [AVR Studio](ht
 ####![Eagle Cad icon](images/eagle.png) Eagle CAD
 All of the PCB design, schema and board layout files where designed in [CadSoft's Eagle Cad PCB](http://www.cadsoftusa.com/eagle-pcb-design-software/product-overview/?language=en) software.
 
-The .sch and .brd files are available in the [eagle](https://github.com/32teeth/SparkyJr/tree/gh-pages/eagle) folder.
+The .sch and .brd files are available in the [master](https://github.com/32teeth/GameBoyDuinoPocket) folder.
 
 |  front | back  |
 |---|---|
