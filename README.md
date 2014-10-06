@@ -9,6 +9,8 @@ gameboyDuino - Pocket
 
 The hardware is based on AVR microcontrollers and programmed via [AVR Studio](http://www.atmel.ca/microsite/atmel_studio6/) or the [Arduino IDE](http://arduino.cc/en/Main/Software)
 
+![Open Source icon](images/osh.png)
+
 **gameboyDuino.** in it's entirety is open source. Including hardware design, software implementation and libraries
 ***
 
@@ -28,6 +30,9 @@ The .sch and .brd files are available in the [master](https://github.com/32teeth
 | additional speaker connection  | interface leds  |
 | tft break out | icsp programmable port  |
 | accurate drill/screw holes | li-po battery connection  |
+
+###BONUS!!!
+We also worked on another project which was shoving the Arduino UNO onto a Gameboy Cartridge. It's in the master folder as well. 
 
 ***
 # Thanks
